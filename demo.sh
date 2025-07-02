@@ -9,7 +9,7 @@ echo ""
 echo "✅ Checking disk space:"
 df -h /
 
-echo "gell"
+echo "gelddl"
 echo "⚙️ Simulating build task..."
 mkdir -p build_output
 echo "Build completed at $(date)" > build_output/result.txt
