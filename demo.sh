@@ -1,7 +1,7 @@
 o#!/bin/bash
 
 echo "📋 Jenkins Build Script Starting"
-echo "Node: $(hostname)"
+ech "Node: $(hostname)"
 echo "Build Triggered by: $USER"
 echo "Time: $(date)"
 echo ""
