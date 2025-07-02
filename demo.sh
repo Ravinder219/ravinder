@@ -1,2 +1,2 @@
-ech "teggst"
+ech "teggjst"
 echo "">test.tx
