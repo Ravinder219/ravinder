@@ -1,4 +1,4 @@
-#!/bin/bash
+o#!/bin/bash
 
 echo "📋 Jenkins Build Script Starting"
 echo "Node: $(hostname)"
@@ -9,7 +9,7 @@ echo ""
 echo "✅ Checking disk space:"
 df -h /
 
-echo ""
+echo "gell"
 echo "⚙️ Simulating build task..."
 mkdir -p build_output
 echo "Build completed at $(date)" > build_output/result.txt
