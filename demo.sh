@@ -14,7 +14,7 @@ echo "⚙️ Simulating build task..."
 mkdir -p build_output
 echo "Build completed at $(date)" > build_output/result.txt
 
-echo ""
+echo "jhkh
 echo "📦 Archiving build artifact:"
 tar -czf build_output.tar.gz build_output/
 
